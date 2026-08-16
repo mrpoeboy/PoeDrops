@@ -4,7 +4,7 @@ A single-page storefront for **PoeDrops**, a boutique laptop retailer that sells
 
 ## Files
 
-- `poedrops.html` — the complete site. One self-contained file: HTML, CSS, and JS all inline. No build step, no dependencies to install.
+- `index.html` — the complete site. One self-contained file: HTML, CSS, and JS all inline. No build step, no dependencies to install.
 
 ## Running it
 
